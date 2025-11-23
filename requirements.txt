@@ -1,4 +1,7 @@
 joblib==1.5.2
 streamlit
 pandas
+sklearn
+pickle
+
 
